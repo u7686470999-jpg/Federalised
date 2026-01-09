@@ -1,0 +1,10 @@
+Copyright (c) 2026 FEDDED
+
+All rights reserved.
+
+This software is provided for educational and research purposes only.
+No permission is granted to modify, redistribute, sublicense, or claim
+this software as original work.
+
+Use is permitted as-is. Any other use requires explicit permission
+from the author.
